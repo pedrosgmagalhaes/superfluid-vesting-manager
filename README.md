@@ -23,7 +23,7 @@ This repository contains a Solidity-based smart contract for implementing a vest
 ## Setup and Installation
 ### Clone the Repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/pedrosgmagalhaes/superfluid-vesting-manager.git
 ```
 
 ### Install Dependencies
